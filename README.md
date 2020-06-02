@@ -1,2 +1,2 @@
 # simplex
-Recherche Opérationnelle méthode simplexe
+Recherche Opérationnelle méthode simplexe pour le tester executer dist/simplex.jar
